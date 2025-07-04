@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**odrianoaliveira/odrianoaliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adriano (He/Him), an experienced software engineer passionate about designing and building production-ready systems, solving problems, and enabling teams to deliver high-quality software.  
 
-Here are some ideas to get you started:
+## My Background 🕰️  
+I have decades of experience in software engineering, with expertise in microservices, RESTful APIs, and cloud-native applications.  
+My journey encompasses roles in workflow automation, travel, and supply chain industries, where I have worked with various technologies, such as Java, Kotlin, Go, Kafka, Kubernetes, and AWS.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm passionate about ✨  
+- System Designing  
+- Mentoring and enabling engineering teams  
+- Cloud-native systems  
+- Programming in Java, Kotlin, and Go  
+- Continuous learning and self-improvement  
+
+## Technologies I 💙  
+**OS** 
+- Server: Linux  
+- Client: Prefer Linux terminals and ZSH shell  
+
+**Cloud Providers**  
+- AWS (daily use), exposure to Google Cloud  
+
+**Kubernetes**  
+- Years of experience developing and maintaining production-grade applications with a strong emphasis on observability and performance monitoring  
+
+**Programming**
+- Java has proven its worth over time, with a mature ecosystem and large codebases to maintain.  
+- Kotlin is my language of choice. It is concise, has elegant syntax, and supports null safety.  
+- Go brings me the joy of my early career stage, where I developed systems using C++ and C.  
+- Bash and Python for scripting and automation; I :heart: automation.  
+
+**Observability & Monitoring**
+- Grafana, Prometheus, Dynatrace, Elasticsearch
+
+**CI/CD & Automation**
+- CircleCI, GitHub Actions, Terraform  
+
+## 📫 How to reach me
+- Email: adriano@flowxpert.ai  
+- LinkedIn: https://www.linkedin.com/in/adriano-oliveira/  
+- GitHub: https://github.com/odrianoaliveira  
