@@ -37,6 +37,6 @@ My journey encompasses roles in workflow automation, travel, and supply chain in
 - CircleCI, GitHub Actions, Terraform  
 
 ## 📫 How to reach me
-- Email: adriano@flowxpert.ai  
+- Email: me@adriano.one  
 - LinkedIn: https://www.linkedin.com/in/adriano-oliveira/  
 - GitHub: https://github.com/odrianoaliveira  
