@@ -16,7 +16,7 @@ My journey encompasses roles in workflow automation, travel, and supply chain in
 ## Technologies I 💙  
 **OS** 
 - Server: Linux  
-- Client: Prefer Linux terminals and ZSH shell  
+- Client: Prefer Linux and ZSH shell. Besides, Ghostty, ZSH on macOS is also fine 😁
 
 **Cloud Providers**  
 - AWS (daily use), exposure to Google Cloud  
