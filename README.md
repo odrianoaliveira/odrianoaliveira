@@ -21,10 +21,8 @@ My career spans workflow automation, travel, supply chain, and SaaS platforms, w
 - **Client**: Linux & ZSH. macOS + Ghostty + ZSH is an excellent combo to 😁
 
 ### Cloud Providers ☁️
-- **AWS** (daily use), exposure to Google Cloud
-- **SAP BTP*** (daily use)
-
-_SAP BTP is a cloud application platform built on modern open-source technologies like Kubernetes, Kafka, and PostgreSQL, enabling scalable, cloud-native development and seamless extension of SAP ecosystems._
+- **AWS**
+- **Google Cloud**
 
 ### Kubernetes 🚢
 - Years of experience building, deploying, and operating production-grade workloads with a strong focus on observability, performance, and reliability.
@@ -38,14 +36,13 @@ _SAP BTP is a cloud application platform built on modern open-source technologie
 
 ### Observability & Monitoring 📊
 - Grafana
-- OpenTelemetry
 - Prometheus
-- Dynatrace
+- OpenTelemetry
 - Elasticsearch
-- Loki.
+- Loki
 
 ### CI/CD & IaC 🤖
-- CircleCI, GitHub Actions, Jenkins
+- CircleCI, GitHub Actions
 - Terraform, CloudFormation
 
 Strong focus on building reliable pipelines, automated deployments, and scalable systems.
