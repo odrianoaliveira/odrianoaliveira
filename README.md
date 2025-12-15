@@ -1,14 +1,16 @@
 Hi there 👋
 
-I'm Adriano (He/Him), an experienced engineer passionate about designing reliable, scalable platforms, solving complex business problems, and enabling teams to ship high-quality software with confidence.
+Hi, my name is Adriano, and I'm an experienced engineer who loves making platforms that are reliable and scalable, solving hard business problems, and giving teams the confidence to ship high-quality software.
 
-## My Background 🧭
+---
 
-With decades of experience across backend and platform engineering, I specialize in cloud-native architectures, distributed systems, and high-throughput services.
+## My Background 🧠⚙️
 
-My career spans workflow automation, travel, supply chain, and SaaS platforms, where I've designed and operated systems using Java, Kotlin, Go, Kafka, Kubernetes, and major cloud providers such as AWS and Google Cloud.
+I have been a backend and platform engineer for decades, and my areas of expertise are distributed systems, cloud-native architectures, and high-throughput services.
 
-## I'm passionate about 🚀
+I have experience in the design and operation of systems using Java, Kotlin, Go, Kafka, Kubernetes, and major cloud providers such as AWS and Google Cloud. My technical expertise includes workflow automation, travel, supply chain, and SaaS platforms.
+
+## I'm passionate about 🌐☁️🚀
 - Cloud-native systems and platform capabilities.
 - System design and production-grade architectures.
 - High-performance, resilient services.
@@ -16,21 +18,21 @@ My career spans workflow automation, travel, supply chain, and SaaS platforms, w
 - Continuous improvement, automation, and operational excellence.
 
 ## Technologies that I :heart:
-### OS 💻
+### OS
 - **Server**: Linux.
-- **Client**: Linux & ZSH. macOS + Ghostty + ZSH is an excellent combo to 😁
+- **Client**: (Arch Linux or macOS) + ZSH + Ghostty.
 
-### Cloud Providers ☁️
+### Cloud Providers
 - **AWS**
 - **Google Cloud**
 
-### Kubernetes 🚢
+### Kubernetes 🚢☸️
 - Years of experience building, deploying, and operating production-grade workloads with a strong focus on observability, performance, and reliability.
 - Deep familiarity with container orchestration patterns, CI/CD integration, and managing service lifecycle in cloud environments.
 
-### Programming 🧠
+### Programming 💻⚙️
 - **Java**: battle-tested, mature, and everywhere.
-- **Kotlin**: my language of choice; concise, elegant, productive.
+- **Kotlin**: my language of choice; concise, elegant, and productive.
 - **Go**: brings back the joy of my early C/C++ days; ideal for lightweight, high-performance services and platform tooling.
 - **Bash & Python**: essential for automation, scripting, and glue logic. I ❤️ automation.
 
@@ -41,7 +43,7 @@ My career spans workflow automation, travel, supply chain, and SaaS platforms, w
 - Elasticsearch
 - Loki
 
-### CI/CD & IaC 🤖
+### CI/CD & IaC 🤖🔁
 - CircleCI, GitHub Actions
 - Terraform, CloudFormation
 
@@ -50,6 +52,5 @@ Strong focus on building reliable pipelines, automated deployments, and scalable
 ---
 
 ## 📫 How to reach me
-- Email: me@adriano.one  
-- LinkedIn: https://www.linkedin.com/in/adriano-oliveira/  
-- GitHub: https://github.com/odrianoaliveira  
+- LinkedIn: https://www.linkedin.com/in/adriano-oliveira/
+- Contact: https://adriano.one/contact
